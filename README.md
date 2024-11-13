@@ -1,5 +1,4 @@
 <h1 align="center">Heyyy 👋, I'm Kelvin Mugane</h1>
-
 <p align="center"></p>
 
 <p align="center">
