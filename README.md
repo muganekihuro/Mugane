@@ -25,13 +25,13 @@
 <h2 align="center">Most Used Languages</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muganekihuro&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=muganekihuro&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="Streak Stats"/>
